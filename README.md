@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dev Viet</h1>
 <h3 align="center">Fullstack developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [FWD](https://www.fwd.com/)
+- 🔭 I’m currently working on PSCD
 
 - 💬 Ask me about **React,NextJs**
 
-- 📫 How to reach me **vvviet.it@gmail.com**
+- 📫 How to reach me **dev.viet.work@gmail.com**
 
 - ⚡ Fun fact **I think i'm funny**
 
